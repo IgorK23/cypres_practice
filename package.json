@@ -1,0 +1,19 @@
+{
+  "name": "cypres_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.1.0",
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "@types/cypress": "^1.1.3"
+  }
+}
